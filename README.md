@@ -1,9 +1,8 @@
 <h3>🚀 DevConnect – Developer Networking & Collaboration Platform</h3>
-# 🚀 DevConnect
 
 ### Connect. Collaborate. Build Together.
 
-**DevConnect** is a developer networking and collaboration platform that helps students and developers find like-minded teammates based on their technical skills, interests, and goals.
+DevConnect is a developer networking and collaboration platform that helps students and developers find like-minded teammates based on their technical skills, interests, and goals.
 
 Whether it's building projects, participating in hackathons, contributing to open source, or learning new technologies, DevConnect brings developers together in one place.
 
@@ -27,8 +26,3 @@ Whether it's building projects, participating in hackathons, contributing to ope
 ## 🎯 Our Goal
 
 To build a connected developer community where students and developers can discover opportunities, share knowledge, find teammates, and grow together.
-
-
----
-
-⭐ **DevConnect | Where Developers Connect and Ideas Become Reality.**
